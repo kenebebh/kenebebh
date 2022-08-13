@@ -9,7 +9,7 @@ I contribute to [open-source](https://github.com/kenebebh), currently building [
 
 - 😊 Pronouns: She/her
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript and Reactjs and they whoop my ass almost everyday😂.
+- 🌱 I’m currently learning JavaScript and Reactjs, and they whoop my ass almost everyday😂.
 - 😊 I’m looking for help with open source projects, hackathons, internships, entry-level opportunities, and technical writing.
 - 💼 Job interests: Software Engineer, Front Engineer, Junior technical Writer, or UI Engineer (Intern or Junior level).
 - 📫 You can reach me at kenebebhbanigo@gmail.com.
