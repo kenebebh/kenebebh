@@ -1,20 +1,108 @@
-# Hello there; welcome 👋😊
+<div align="center">
 
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering) [![Linkedin Badge](https://img.shields.io/badge/-KenebebhBanigo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kenebebh-banigo-0a5963226/)](https://www.linkedin.com/in/kenebebh-banigo-0a5963226/) [![Twitter Badge](https://img.shields.io/badge/-@BanigoKene-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/BanigoKene)](https://twitter.com/BanigoKene)
+# Hi, I'm Kenebebh Banigo 👋
+### **Frontend & Fullstack Product Engineer**
 
-I'm an enthusiastic and detail-oriented Frontend Developer skilled in troubleshooting and solving complex problems, creating beautiful, functional websites and web apps optimized for use on all screens. I'm passionate about documentation, sharing knowledge, technical writing, and making impacts in peoples lives with what I do.
-I contribute to [open-source](https://github.com/kenebebh), currently building [my first web app](https://surge-in-progress.netlify.app/) , write technical content...
+Building fast, resilient, and accessible web products with **React 19**, **TypeScript**, **Next.js**, and modern component architectures.
 
-**Here's a quick summary about me**:
+[Portfolio](https://kenebebh-portfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/kenebebh-banigo-0a5963226/) • [Twitter / X](https://twitter.com/BanigoKene) • [Email](mailto:kenebebhbanigo@gmail.com)
 
-- 😊 Pronouns: She/her
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript and Reactjs, and they whoop my ass almost everyday😂.
-- 😊 I’m looking for help with open source projects, hackathons, internships, entry-level opportunities, and technical writing.
-- 💼 Job interests: Software Engineer, Front Engineer, Junior technical Writer, or UI Engineer (Intern or Junior level).
-- 📫 You can reach me at kenebebhbanigo@gmail.com.
+<br />
+
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-bebh.dev-7928CA?style=for-the-badge&logo=vercel&logoColor=white)](https://kenebebh-portfolio.vercel.app/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Kenebebh_Banigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kenebebh-banigo-0a5963226/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter_%2F_X-@BanigoKene-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/BanigoKene)
+[![Email Badge](https://img.shields.io/badge/Email-kenebebhbanigo@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kenebebhbanigo@gmail.com)
+
+</div>
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenebebh&show_icons=true&include_all_commits=true&hide_border=true" alt="Kene's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenebebh&langs_count=8&layout=compact&hide_border=true" alt="Kene's GitHub stats" /> |
-| ------------- | ------------- |
+### 🌟 About Me
+
+I am a detail-driven **Frontend & Product Engineer** dedicated to creating polished web applications that balance fluid user experiences with solid software architecture. 
+
+I specialize in **modern React & TypeScript ecosystems**, having engineered production systems ranging from **real-time telehealth consultations with WebRTC audio/video** to **data-rich administrative and operational dashboards**. I care deeply about optimal performance, user experience, clean type safety, and maintainable component architectures.
+
+- 🔭 **Currently Building & Exploring:** High-impact, standalone web products, real-time media workflows, and developer productivity tools.
+- ⚡ **Engineering Focus:** Real-time WebRTC media pipelines, TanStack Router/Query state orchestration, modular monorepos (Turborepo), and component design systems.
+- 🎯 **What Drives Me:** Shipping thoughtfully designed software that solves real user pain points, accompanied by crystal-clear documentation.
+- 💬 **Ask Me About:** React 19, TypeScript, TanStack ecosystem, Tailwind CSS, WebRTC/Agora RTC, and frontend architecture.
+- 📫 **How to reach me:** [kenebebhbanigo@gmail.com](mailto:kenebebhbanigo@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<div align="left">
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Languages** | `TypeScript` `JavaScript (ES6+)` `HTML5` `CSS3 / PostCSS` `SQL` |
+| **Frontend & UI** | `React 19` `Next.js` `TanStack Router` `TanStack Query` `Zustand` `Tailwind CSS (v4)` `Shadcn UI` `Radix UI` `Headless UI` |
+| **Real-time & Media** | `Agora RTC (WebRTC)` `WebSockets` |
+| **Backend & Data** | `Node.js` `Express` `Supabase` `PostgreSQL` `REST APIs` `Fly.io` `Vercel` |
+| **Tooling & Workflow** | `Turborepo` `Vite` `pnpm` `Git & GitHub` `PostHog` `PWA` `ESLint` `Prettier` |
+
+</div>
+
+---
+
+### 🚀 Featured Work & Engineering Highlights
+
+#### 🩺 **Real-Time Telehealth & Consultation Platform**
+> *Production-grade multi-application suite connecting patients and healthcare providers through real-time communication.*
+- **Core Architecture:** Built within a **Turborepo monorepo** powering patient and provider portals using **React 19**, **TypeScript**, **Vite**, and **Tailwind CSS**.
+- **Real-Time Audio & Video:** Implemented live virtual consultation rooms using **Agora WebRTC SDK** with reliable session state, camera/mic controls, and fallback handling.
+- **Scheduling & Availability:** Engineered an interactive doctor availability management calendar preventing past-day bookings and streamlining appointment time-slot configurations.
+- **Performance & State:** Leveraged **TanStack Query** for resilient server-state caching and **Zustand** for lightweight client-state orchestration.
+
+#### 📊 **My Odyssey Admin Dashboard**
+> *Functional operational admin portal engineered to monitor, analyze, and manage trip operations, users, and platform data.*
+- Built with **TypeScript**, **React**, and **Tailwind CSS**, featuring interactive metrics, user interaction tracking, and structured content moderation workflows.
+- [🔗 Live Demo](https://my-odyssey-dashboard.vercel.app/) • [💻 GitHub Repository](https://github.com/kenebebh/my-odyssey-dashboard)
+
+#### 🌐 **Personal Portfolio (`bebh.dev`)**
+> *Interactive product developer portfolio showcasing work, design aesthetic, and engineering philosophy.*
+- Built with **Next.js**, **React**, and modern CSS styling with dark mode theming, fluid micro-interactions, and mobile responsiveness.
+- [🔗 Live Site](https://kenebebh-portfolio.vercel.app/) • [💻 GitHub Repository](https://github.com/kenebebh/new-portfolio)
+
+---
+
+### 📈 GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/kenebebh">
+          <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=kenebebh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kenebebh's GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kenebebh">
+          <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=kenebebh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br />
+
+  <a href="https://github.com/kenebebh">
+    <img src="https://streak-stats.demolab.com/?user=kenebebh&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  </a>
+</div>
+
+---
+
+### 💼 What I Bring to a Team & Let's Connect
+
+- 💡 **Product-Minded Mindset:** I don't just write code; I think through user journeys, accessibility, edge cases, and business goals to deliver cohesive products.
+- ⚡ **Modern Engineering Standards:** Strict type safety, clean code structure, modular component systems, and proactive documentation.
+- 🤝 **Open to Opportunities:** I am actively exploring **Frontend Engineer**, **Full-Stack Developer**, and **Product Engineer** roles (Remote, Hybrid, or On-site).
+
+If you have an open role, an ambitious project to collaborate on, or simply want to chat tech:
+- 📧 **Email:** [kenebebhbanigo@gmail.com](mailto:kenebebhbanigo@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/kenebebh-banigo-0a5963226](https://www.linkedin.com/in/kenebebh-banigo-0a5963226/)
+- 🐦 **Twitter / X:** [@BanigoKene](https://twitter.com/BanigoKene)
