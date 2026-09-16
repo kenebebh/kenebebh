@@ -48,7 +48,7 @@ I specialize in **modern React & TypeScript ecosystems**, having engineered prod
 
 ---
 
-### 🚀 Featured Work & Engineering Highlights
+<!-- ### 🚀 Featured Work & Engineering Highlights
 
 #### 🩺 **Real-Time Telehealth & Consultation Platform**
 > *Production-grade multi-application suite connecting patients and healthcare providers through real-time communication.*
@@ -67,12 +67,12 @@ I specialize in **modern React & TypeScript ecosystems**, having engineered prod
 - Built with **Next.js**, **React**, and modern CSS styling with dark mode theming, fluid micro-interactions, and mobile responsiveness.
 - [🔗 Live Site](https://kenebebh-portfolio.vercel.app/) • [💻 GitHub Repository](https://github.com/kenebebh/new-portfolio)
 
----
+--- -->
 
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <table border="0">
+  <!-- <table border="0">
     <tr>
       <td>
         <a href="https://github.com/kenebebh">
@@ -85,7 +85,7 @@ I specialize in **modern React & TypeScript ecosystems**, having engineered prod
         </a>
       </td>
     </tr>
-  </table>
+  </table> -->
   
   <br />
 
