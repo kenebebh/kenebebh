@@ -3,7 +3,7 @@
 # Hi, I'm Kenebebh Banigo 👋
 ### **Frontend & Fullstack Product Engineer**
 
-Building fast, resilient, and accessible web products with **React 19**, **TypeScript**, **Next.js**, and modern component architectures.
+I build fast, resilient, and accessible web products with **React 19**, **TypeScript**, **Next.js**, and modern component architectures.
 
 [Portfolio](https://kenebebh-portfolio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/kenebebh-banigo-0a5963226/) • [Twitter / X](https://twitter.com/BanigoKene) • [Email](mailto:kenebebhbanigo@gmail.com)
 
